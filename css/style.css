@@ -10,8 +10,6 @@ h1 {
     line-height: 18px;
 }
 
-
-
 span.organge-color {
     color: #FF8367;
 }
@@ -54,17 +52,3 @@ header ul li {
     border-radius: 5px;
     padding: 15px 40px;
 }
-h2 {
-    color: #363958;
-    font-size: 45px;
-}
-
-section.working-area {
-    margin-top: 1400px;
-}
-
-section.working-area h2 {
-    text-align: center;
-}
-
-
