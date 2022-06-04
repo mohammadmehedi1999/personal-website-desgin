@@ -76,3 +76,83 @@ section.working-area h2 {
 .gelary-area div:nth-child(3) {
     margin-right: 0;
 }
+
+.gelary-area .three-part {
+    margin-bottom: 200px;
+}
+
+
+.chat-part a {
+    display: inline;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    border-radius: 5px;
+    padding: 20px 40px;
+    float: left;
+    margin-left: 220px;
+}
+
+.half-width {
+    width: 50%;
+    float: left;
+}
+
+.chat-part {
+    padding: 100px 50px 163px;
+    background-image: linear-gradient(90deg, violet, blue);
+    height: 0;
+    margin: 650px 100px 100px;
+    border-radius: 30px;
+}
+
+.chat-part h2 {
+    display: inline;
+    color: white;
+}
+
+.social-media-part {
+    text-align: center;
+    line-height: -27px;
+}
+
+.social-media-part h5 {
+    color: #696871;
+    font-size: 20px;
+    display: inline;
+}
+
+.social-media-part h6 {
+    font-size: 34px;
+    color: #363958;
+    margin: 10px;
+}
+ul.icon-part li {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 40px;
+    line-height: 50px;
+    list-style: none;
+    margin: 10px;
+}
+.social-media-part ul {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 50px;
+}
+ul.icon-part li:nth-child(1) {
+    background: hotpink;
+}
+
+ul.icon-part li:nth-child(2) {
+    background: #4176FA;
+}
+
+ul.icon-part li:nth-child(3) {
+    background-image: linear-gradient(162deg, yellow, red);
+}
+ul.icon-part li a {
+    color: white;
+}
