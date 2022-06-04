@@ -9,9 +9,6 @@ h1 {
     font-size: 60px;
     line-height: 18px;
 }
-
-
-
 span.organge-color {
     color: #FF8367;
 }
@@ -59,12 +56,23 @@ h2 {
     font-size: 45px;
 }
 
+.three-part {
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+
+.three-part img {
+    width: 100%;
+}
 section.working-area {
-    margin-top: 1400px;
+    margin-top: 1500px;
 }
 
 section.working-area h2 {
     text-align: center;
+    margin-bottom: 80px;
 }
-
-
+.gelary-area div:nth-child(3) {
+    margin-right: 0;
+}
